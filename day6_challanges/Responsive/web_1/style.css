@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+  .w3-top {
+    background-color: black;
+  }
+
+  .w3-card a {
+    color: white;
+  }
+
+  .w3-right {
+    display: none;
+  }
+}
