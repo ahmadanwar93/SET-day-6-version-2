@@ -28,6 +28,11 @@ img {
   width: 100%;
 }
 
+/* aku tambah */
+.band-singing-text{
+  display: none;
+}
+
 .nav-bar {
   display: flex;
   flex-direction: row;
